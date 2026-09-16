@@ -1,0 +1,12 @@
+{
+  "name": "@dita/design-tokens",
+  "version": "0.2.0",
+  "description": "Tokens de identidade visual do Dita (cores, espaçamento, tipografia) — fonte única consumida por dita_web (Stitches) e dita_mobile (React Native).",
+  "license": "UNLICENSED",
+  "private": true,
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "files": [
+    "src"
+  ]
+}
